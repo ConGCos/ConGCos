@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ConGCos
 - 👀 I’m interested in coding games and software
-- 🌱 I’m currently learning VR development
-- 💞️ I’m looking to collaborate on VR development
+- 📫 https://www.linkedin.com/in/connorgcostigan/
 - 📫 congcos98@gmail.com
 
 <!---
